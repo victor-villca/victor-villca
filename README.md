@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="180px" /></p>
 <h1 align="center">Hi 👋, I'm Victor Villca</h1>
 
-<h3 align="center">I am a passionate coding student from Bolivia. I like programming and learning new skills. I am eager to work and connect with people from all around the world!!</h3>
+<h3 align="center">I am a passionate programmer from Bolivia. I like programming and learning new skills. I am eager to work and connect with people from all around the world!!</h3>
 
 ---
 
